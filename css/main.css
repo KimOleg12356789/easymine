@@ -825,9 +825,10 @@ ul {
 #tooltip {
   position: absolute;
   display: none;
-  padding: 0 10px 10px 10px;
+  padding: 3px 10px 10px 10px;
   border: 1px solid #e1e1e1;
-  background: #e1e1e1;
+  height: 28px;
+  background: #fff;
 }
 
 /* Links */
